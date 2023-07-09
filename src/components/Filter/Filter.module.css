@@ -1,16 +1,16 @@
-.filterInput{
-    width: 300px;
-    height: 20px;
+.filterInput {
+	width: 300px;
+	height: 20px;
 }
-.filterLabel{
-    margin-bottom: 20px;
-    
-        font-size: 20px;
-        font-weight: 400;
+.filterLabel {
+	margin-bottom: 20px;
+
+	font-size: 20px;
+	font-weight: 400;
 }
-.filter{ 
-    padding-left: 15px;
-        display: flex;
-        flex-direction: column;
-        width: 500px;
+.filter {
+	padding-left: 15px;
+	display: flex;
+	flex-direction: column;
+	width: 500px;
 }
